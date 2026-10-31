@@ -1,0 +1,48 @@
+timestamp=[2026-10-20 22:10:18], mode=WORKBENCH_START, duration=0:00:22.254, duration_ms=22254, data={}
+timestamp=[2026-10-20 22:10:18], mode=WORKBENCH_UI_INIT, duration=0:00:00.010, duration_ms=10, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2026-10-20 22:10:20], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.071, duration_ms=71, data={}
+timestamp=[2026-10-20 22:12:41], mode=APP_CREATION, duration=0:00:29.542, duration_ms=29542, data={name=SSP, project_type=sdk, os=standalone, processor=ps7_cortexa9, runtime=cpp, platform=SSP_Block_wrapper, application_type=application}
+timestamp=[2026-10-20 22:13:58], mode=PLATFORM_GENERATION, duration=0:00:44.139, duration_ms=44139, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-20 22:14:04], mode=BUILD, duration=0:00:05.711, duration_ms=5711, data={name=SSP, configuration=Debug, clean_build=false}
+timestamp=[2026-10-20 22:15:16], mode=BUILD, duration=0:00:00.571, duration_ms=571, data={name=SSP, configuration=Debug, clean_build=false}
+timestamp=[2026-10-20 22:15:28], mode=BUILD, duration=0:00:11.192, duration_ms=11192, data={name=SSP_system, configuration=Debug, clean_build=false}
+timestamp=[2026-10-20 22:18:53], mode=BUILD, duration=0:00:01.884, duration_ms=1884, data={name=SSP, configuration=Debug, clean_build=false}
+timestamp=[2026-10-20 22:19:03], mode=BUILD, duration=0:00:10.032, duration_ms=10032, data={name=SSP_system, configuration=Debug, clean_build=false}
+timestamp=[2026-10-22 12:58:38], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.226, duration_ms=226, data={}
+timestamp=[2026-10-22 12:59:20], mode=WORKBENCH_START, duration=0:00:59.253, duration_ms=59253, data={}
+timestamp=[2026-10-22 12:59:21], mode=WORKBENCH_UI_INIT, duration=0:00:00.234, duration_ms=234, data={editors_count=4, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,SSP,SSP_Block_wrapper,SSP_system}
+timestamp=[2026-10-22 20:39:09], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.253, duration_ms=253, data={}
+timestamp=[2026-10-22 20:39:09], mode=WORKBENCH_START, duration=0:00:15.309, duration_ms=15309, data={}
+timestamp=[2026-10-22 20:39:09], mode=WORKBENCH_UI_INIT, duration=0:00:00.561, duration_ms=561, data={editors_count=4, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,SSP,SSP_Block_wrapper,SSP_system}
+timestamp=[2026-10-22 20:41:47], mode=PLATFORM_GENERATION, duration=0:00:33.832, duration_ms=33832, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:44:00], mode=PLATFORM_GENERATION, duration=0:00:16.592, duration_ms=16592, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:45:38], mode=PLATFORM_GENERATION, duration=0:00:55.463, duration_ms=55463, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:45:56], mode=PLATFORM_GENERATION, duration=0:00:17.584, duration_ms=17584, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:46:54], mode=PLATFORM_GENERATION, duration=0:00:18.730, duration_ms=18730, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:49:23], mode=PLATFORM_GENERATION, duration=0:00:54.653, duration_ms=54653, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:51:27], mode=PLATFORM_GENERATION, duration=0:00:21.010, duration_ms=21010, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:52:59], mode=PLATFORM_GENERATION, duration=0:00:18.884, duration_ms=18884, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:53:10], mode=PLATFORM_GENERATION, duration=0:00:04.946, duration_ms=4946, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:53:18], mode=PLATFORM_GENERATION, duration=0:00:04.362, duration_ms=4362, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:53:18], mode=BUILD, duration=0:00:00.307, duration_ms=307, data={name=SSP, configuration=Debug, clean_build=true}
+timestamp=[2026-10-22 20:53:50], mode=PLATFORM_GENERATION, duration=0:00:17.264, duration_ms=17264, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:54:29], mode=PLATFORM_GENERATION, duration=0:00:18.135, duration_ms=18135, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:56:42], mode=PLATFORM_GENERATION, duration=0:00:05.583, duration_ms=5583, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 20:56:47], mode=PLATFORM_GENERATION, duration=0:00:04.849, duration_ms=4849, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 21:04:08], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.022, duration_ms=22, data={}
+timestamp=[2026-10-22 21:04:20], mode=WORKBENCH_START, duration=0:00:24.581, duration_ms=24581, data={}
+timestamp=[2026-10-22 21:04:21], mode=WORKBENCH_UI_INIT, duration=0:00:00.352, duration_ms=352, data={editors_count=4, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,SSP,SSP_Block_wrapper,SSP_system}
+timestamp=[2026-10-22 21:06:00], mode=PLATFORM_GENERATION, duration=0:00:54.764, duration_ms=54764, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 21:06:54], mode=PLATFORM_GENERATION, duration=0:00:09.826, duration_ms=9826, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 21:07:39], mode=PLATFORM_GENERATION, duration=0:00:33.320, duration_ms=33320, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 21:07:43], mode=BUILD, duration=0:00:01.084, duration_ms=1084, data={name=SSP, configuration=Debug, clean_build=false}
+timestamp=[2026-10-22 21:08:17], mode=BUILD, duration=0:00:00.375, duration_ms=375, data={name=SSP, configuration=Debug, clean_build=true}
+timestamp=[2026-10-22 21:08:19], mode=BUILD, duration=0:00:01.149, duration_ms=1149, data={name=SSP, configuration=Debug, clean_build=false}
+timestamp=[2026-10-22 21:08:35], mode=PLATFORM_GENERATION, duration=0:00:10.779, duration_ms=10779, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 21:08:35], mode=BUILD, duration=0:00:00.318, duration_ms=318, data={name=SSP, configuration=Debug, clean_build=true}
+timestamp=[2026-10-22 21:08:35], mode=BUILD, duration=0:00:00.321, duration_ms=321, data={name=SSP_system, configuration=Debug, clean_build=true}
+timestamp=[2026-10-22 21:09:47], mode=PLATFORM_GENERATION, duration=0:00:34.795, duration_ms=34795, data={name=SSP_Block_wrapper}
+timestamp=[2026-10-22 21:09:49], mode=BUILD, duration=0:00:01.442, duration_ms=1442, data={name=SSP, configuration=Debug, clean_build=false}
+timestamp=[2026-10-22 21:13:37], mode=BUILD, duration=0:00:01.196, duration_ms=1196, data={name=SSP, configuration=Debug, clean_build=false}
+timestamp=[2026-10-22 21:14:51], mode=BUILD, duration=0:00:06.156, duration_ms=6156, data={name=SSP, configuration=Debug, clean_build=false}
+timestamp=[2026-10-22 21:15:03], mode=BUILD, duration=0:00:11.579, duration_ms=11579, data={name=SSP_system, configuration=Debug, clean_build=false}

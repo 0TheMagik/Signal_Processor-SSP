@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="SSP" location="C:/Users/USER/Documents/Vivado_Project/Signal_Processor-SSP/Workspace/SSP" platform="C:/Users/USER/Documents/Vivado_Project/Signal_Processor-SSP/Workspace/SSP_Block_wrapper/export/SSP_Block_wrapper/SSP_Block_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="SSP_system" sysConfig="SSP_Block_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="2056171e7f747c7269a5cc7ecd20407a">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.91277178">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1123393789" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="lwip_echo_server" hasBspSettings="true"/>
+</sdkproject:SdkProject>

@@ -1,3 +1,6 @@
+create_clock -period 40.000 -name enet_rx_clk [get_ports ENET0_GMII_RX_CLK_0]
+create_clock -period 40.000 -name enet_tx_clk [get_ports ENET0_GMII_TX_CLK_0]
+
 set_property IOSTANDARD LVCMOS33 [get_ports {enet0_gmii_txd[3]}]
 set_property IOSTANDARD LVCMOS33 [get_ports {enet0_gmii_txd[2]}]
 set_property IOSTANDARD LVCMOS33 [get_ports {enet0_gmii_txd[1]}]

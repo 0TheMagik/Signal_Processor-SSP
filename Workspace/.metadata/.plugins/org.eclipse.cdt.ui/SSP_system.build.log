@@ -1,0 +1,21 @@
+21:14:52 **** Incremental Build of configuration Debug for project SSP_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 52232 C:/Users/USER/Documents/Vivado_Project/Signal_Processor-SSP/Workspace/SSP_Block_wrapper/export/SSP_Block_wrapper/SSP_Block_wrapper.xpfm standalone_ps7_cortexa9_0 C:/Users/USER/Documents/Vivado_Project/Signal_Processor-SSP/Workspace/SSP_system/Debug/system.bif
+
+****** Software Commandline Tool (XSCT) v2024.2.2
+  **** SW Build 6059495 on Wed Mar 05 19:29:13 MST 2025
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+
+
+Warning: XSCT is deprecated and will be removed in future releases.
+We recommend using the new Python command-line tool for project management and debugging:
+- Run "vitis -i" for interactive mode.
+- Run "vitis -s <script>" for script mode.
+sdcard_gen --xpfm C:/Users/USER/Documents/Vivado_Project/Signal_Processor-SSP/Workspace/SSP_Block_wrapper/export/SSP_Block_wrapper/SSP_Block_wrapper.xpfm --sys_config SSP_Block_wrapper --bif C:/Users/USER/Documents/Vivado_Project/Signal_Processor-SSP/Workspace/SSP_system/Debug/system.bif --bitstream C:/Users/USER/Documents/Vivado_Project/Signal_Processor-SSP/Workspace/SSP/_ide/bitstream/SSP_Block_wrapper_V0.1.bit --elf C:/Users/USER/Documents/Vivado_Project/Signal_Processor-SSP/Workspace/SSP/Debug/SSP.elf,ps7_cortexa9_0
+creating BOOT.BIN using C:/Users/USER/Documents/Vivado_Project/Signal_Processor-SSP/Workspace/SSP/_ide/bitstream/SSP_Block_wrapper_V0.1.bit
+Running C:/Xilinx/Vitis/2024.2/bin/bootgen  -image C:/Users/USER/Documents/Vivado_Project/Signal_Processor-SSP/Workspace/SSP_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+21:15:03 Build Finished (took 11s.562ms)
+
